@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Monopoly Companion</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="p1s0">Mediterranean Avenue  Price: $60</string>
+    <string name="p1s1">Mediterranean Avenue  Rent:$</string>
+    <string name="p1s2">Mediterranean Avenue  Rent:$4</string>
+    <string name="p2s0">Baltic Avenue  Price: $60</string>
+    <string name="p2s1">Baltic Avenue  Rent: $</string>
+    <string name="p2s2">Baltic Avenue  Rent $8</string>
+    <string name="p3s0">Oriental Avenue  Price: $100</string>
+    <string name="p3s1">Oriental Avenue  Rent: $</string>
+    <string name="p3s2">Oriental Avenue  Rent: $12</string>
+    <string name="p4s0">Vermont Avenue  Price: $100</string>
+    <string name="p4s1">Vermont Avenue  Rent: $</string>
+    <string name="p4s2">Vermont Avenue  Rent: $12</string>
+    <string name="p5s0">Connecticut Avenue  Price: $120</string>
+    <string name="p5s1">Connecticut Avenue  Rent: $</string>
+    <string name="p5s2">Connecticut Avenue  Rent: $16</string>
+    <string name="p6s0">St. Charles Place  Price: $140</string>
+    <string name="p6s1">St. Charles Place  Rent: $</string>
+    <string name="p6s2">St. Charles Place  Rent: $20</string>
+    <string name="p7s0">States Avenue  Price: $140</string>
+    <string name="p7s1">States Avenue  Rent: $</string>
+    <string name="p7s2">States Avenue  Rent: $20</string>
+    <string name="p8s0">Virginia Avenue  Price: $160</string>
+    <string name="p8s1">Virginia Avenue  Rent: $</string>
+    <string name="p8s2">Virginia Avenue  Rent: $24</string>
+    <string name="p9s0">St. James Place  Price: $180</string>
+    <string name="p9s1">St. James Place  Rent: $</string>
+    <string name="p9s2">St. James Place  Rent: $28</string>
+    <string name="p10s0">Tennessee Avenue  Price: $180</string>
+    <string name="p10s1">Tennessee Avenue  Rent: $</string>
+    <string name="p10s2">Tennessee Avenue  Rent: $28</string>
+    <string name="p11s0">New York Avenue  Price: $200</string>
+    <string name="p11s1">New York Avenue  Rent: $</string>
+    <string name="p11s2">New York Avenue  Rent: $32</string>
+    <string name="p12s0">Kentucky Avenue  Price: $220</string>
+    <string name="p12s1">Kentucky Avenue  Rent: $</string>
+    <string name="p12s2">Kentucky Avenue  Rent: $36</string>
+    <string name="p13s0">Indiana Avenue  Price: $220</string>
+    <string name="p13s1">Indiana Avenue  Rent: $</string>
+    <string name="p13s2">Indiana Avenue  Rent: $36</string>
+    <string name="p14s0">Illinois Avenue  Price: $240</string>
+    <string name="p14s1">Illinois Avenue  Rent: $</string>
+    <string name="p14s2">Illinois Avenue  Rent: $40</string>
+    <string name="p15s0">Atlantic Avenue  Price: $260</string>
+    <string name="p15s1">Atlantic Avenue  Rent: $</string>
+    <string name="p15s2">Atlantic Avenue  Rent: $44</string>
+    <string name="p16s0">Ventnor Avenue  Price: $260</string>
+    <string name="p16s1">Ventnor Avenue  Rent: $</string>
+    <string name="p16s2">Ventnor Avenue  Rent: $44</string>
+    <string name="p17s0">Marvin Gardens  Price: $280</string>
+    <string name="p17s1">Marvin Gardens  Rent: $</string>
+    <string name="p17s2">Marvin Gardens  Rent: $48</string>
+    <string name="p18s0">Pacific Avenue  Price: $300</string>
+    <string name="p18s1">Pacific Avenue  Rent: $</string>
+    <string name="p18s2">Pacific Avenue  Rent: $52</string>
+    <string name="p19s0">North Carolina Avenue  Price:  $300</string>
+    <string name="p19s1">North Carolina Avenue  Rent: $</string>
+    <string name="p19s2">North Carolina Avenue  Rent: $52</string>
+    <string name="p20s0">Pennsylvania Avenue  Price: $320</string>
+    <string name="p20s1">Pennsylvania Avenue  Rent: $</string>
+    <string name="p20s2">Pennsylvania Avenue  Rent: $56</string>
+    <string name="p21s0">Park Place  Price: $350</string>
+    <string name="p21s1">Park Place  Rent: $</string>
+    <string name="p21s2">Park Place  Rent: $70</string>
+    <string name="p22s0">Boardwalk  Price: $400</string>
+    <string name="p22s1">Boardwalk  Rent: $</string>
+    <string name="p22s2">Boardwalk  Rent: $100</string>
+    <string name="p23s0">Electric Company  Price: $150</string>
+    <string name="p23s1">Electric Company  Cost: 4x Roll</string>
+    <string name="p23s2">Electric Company  Cost: 10x Roll</string>
+    <string name="p24s0">Water Works  Price: $150</string>
+    <string name="p24s1">Water Works  Cost: 4x Roll</string>
+    <string name="p24s2">Water Works  Cost: 10x Roll</string>
+    <string name="p25s0">Reading Railroad  Price: $200</string>
+    <string name="p25s1">Reading Railroad  Cost: $</string>
+    <string name="p26s0">Pennsylvania Railroad  Price: $200</string>
+    <string name="p26s1">Pennsylvania Railroad  Cost: $</string>
+    <string name="p27s0">B. &amp; O. Railroad  Price: $200</string>
+    <string name="p27s1">B. &amp; O. Railroad  Cost: $</string>
+    <string name="p28s0">Short Line  Price: $200</string>
+    <string name="p28s1">Short Line  Cost: $</string>
+
+    <string-array name="p1a">
+        <item></item>
+        <item>M</item>
+    </string-array>
+    
+<string-array name="p1b">
+<item></item>
+<item>M</item>
+<item>1h</item>
+<item>2h</item>
+<item>3h</item>
+<item>4h</item>
+<item>Ho</item>
+<item>Cl</item>
+</string-array>
+    
+    
+
+</resources>
